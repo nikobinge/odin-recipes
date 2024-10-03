@@ -1,0 +1,41 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(250, 191, 30);
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: red;
+}
+
+ol li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+.recipe-page-img {
+    width: 400px;
+    height: auto;
+
+}
+#homepage-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 75px;
+    color: brown;
+    background-color: rgb(254, 227, 157);
+}
+#homepage-list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+    color: brown;
+}
